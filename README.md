@@ -29,10 +29,10 @@ Ajuste modelos de regresión lineal múltiple a los datos advertisement.csv y el
 
 Considera:
 
-Y: Sales (Ventas de un producto)
-X1: TV (Presupuesto de publicidad en TV para el producto)
-X2: Radio (Presupuesto de publicidad en Radio para el producto)
-X3: Newspaper (Presupuesto de publicidad en Periódico para el producto)
+   Y: Sales (Ventas de un producto)
+   X1: TV (Presupuesto de publicidad en TV para el producto)
+   X2: Radio (Presupuesto de publicidad en Radio para el producto)
+   X3: Newspaper (Presupuesto de publicidad en Periódico para el producto)
 
 ```r
 adv <- read.csv("https://raw.githubusercontent.com/beduExpert/Programacion-R-Santander-2022/main/Sesion-06/data/advertising.csv")
